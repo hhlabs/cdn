@@ -499,3 +499,13 @@ dfn {
 
 /* FIM Estrutura */
 
+/*   Navbar 	 */
+header
+{
+	margin: 0 auto;
+	position: relative;
+	padding-bottom: 0px;
+	text-align: center;
+	margin-top:-10px;
+}
+	
